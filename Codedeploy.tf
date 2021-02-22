@@ -1,6 +1,6 @@
 provider "aws" {
-  access_key = "AKIAZ2W5DEQGSJXWUWER"
-  secret_key = "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"
+  access_key = "Accesskey"
+  secret_key = "Accesslogs"
   region     = "us-east-1"
 }
 #Create a virtual network
